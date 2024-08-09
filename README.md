@@ -1,4 +1,4 @@
-A mesh generation tools for CFD/CAE
+A mesh generation tool for CFD/CAE
 
 # Structure grid
 - 2D quadrangle/ 3D hexahedron
